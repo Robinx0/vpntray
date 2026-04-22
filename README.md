@@ -32,7 +32,7 @@ Built because every OpenVPN GUI I tried on Kali was either broken in some way or
 ## Install
 
 ```bash
-git clone https://github.com/YOURNAME/vpntray
+git clone https://github.com/robinx0/vpntray
 cd vpntray
 sudo bash install.sh
 ```
